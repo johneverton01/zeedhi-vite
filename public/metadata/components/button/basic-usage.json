@@ -1,0 +1,19 @@
+{
+  "name": "basicUsageCard",
+  "component": "ZdCard",
+  "children": [
+    {
+      "name": "divBasicUsage",
+      "component": "ZdTag",
+      "tag": "div",
+      "cssClass": "text-center",
+      "children": [
+        {
+          "name": "buttonResult",
+          "component": "ZdButton",
+          "label": "My button teste"
+        }
+      ]
+    }
+  ]
+}
